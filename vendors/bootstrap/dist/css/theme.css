@@ -197,9 +197,6 @@ th {
   a:visited {
     text-decoration: underline;
   }
-  span.setColor{
-color:#1ca895;
-}
   a[href]:after {
     content: " (" attr(href) ")";
   }
