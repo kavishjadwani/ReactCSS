@@ -13,6 +13,9 @@
 .theme-explorer .file-preview .table {
     margin: 0;
 }
+span.setColor{
+color:#1ca895;
+}
 
 .theme-explorer .explorer-frame td {
     vertical-align: middle;
