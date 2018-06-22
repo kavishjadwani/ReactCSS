@@ -1312,6 +1312,9 @@ mark,
 .text-justify {
   text-align: justify;
 }
+.setColor{
+color:#1ca895 !important;
+}
 .text-nowrap {
   white-space: nowrap;
 }
