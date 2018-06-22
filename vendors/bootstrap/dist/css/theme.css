@@ -1091,6 +1091,9 @@ a {
   color: #1ca895;
   text-decoration: none;
 }
+a.setColor.nav-link:hover {
+    color: white!important;
+}
 a:hover,
 a:focus {
   color: #157ab5;
